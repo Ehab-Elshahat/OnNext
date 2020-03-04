@@ -290,7 +290,7 @@ body {
     .blog .blog-box .box-back-img {
       width: 100%;
       height: 265px;
-      background-image: url("../../dist/imgs/blog-01.jpg");
+      background-image: url("../imgs/blog-01.jpg");
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
